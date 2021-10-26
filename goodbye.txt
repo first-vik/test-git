@@ -1,2 +1,2 @@
 Print ("Goodbye my love")
-В чем дело?
+How are you
