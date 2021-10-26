@@ -1,1 +1,2 @@
 Print ("Goodbye my love")
+В чем дело?
